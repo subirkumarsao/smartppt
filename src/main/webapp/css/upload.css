@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+
+.upload-img {
+	width: 300px;
+	height:300px;
+    margin: 0 auto;
+    margin-top: 300px;
+    border-radius: 25px;
+    overflow: hidden;
+    background-color: white;
+}
+
+.upload-btn {
+	width: 500px;
+	height:70px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 25px;
+    overflow: hidden;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: GREEN;
+}

@@ -1,0 +1,6 @@
+@CHARSET "ISO-8859-1";
+
+.slideShowFrame, body, html{
+	width: 100%;
+	height: 100%;
+}

@@ -2,3 +2,5 @@
 /.settings
 /.classpath
 /.project
+/src/main/resources/application.properties
+/src/main/resources/google-auth.json
